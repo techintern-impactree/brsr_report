@@ -1,0 +1,1734 @@
+{
+  "documentTitle": "BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING FORMAT",
+  "sections": {
+    "section_a_general_disclosures": {
+      "title": "SECTION A: GENERAL DISCLOSURES",
+      "categories": {
+        "entity_details": {
+          "title": "Details of the listed entity",
+          "questions": [
+            {
+              "id": "A.1",
+              "question": "Corporate Identity Number (CIN) of the Listed Entity"
+            },
+            {
+              "id": "A.2",
+              "question": "Name of the Listed Entity"
+            },
+            {
+              "id": "A.3",
+              "question": "Year of incorporation"
+            },
+            {
+              "id": "A.4",
+              "question": "Registered office address"
+            },
+            {
+              "id": "A.5",
+              "question": "Corporate address"
+            },
+            {
+              "id": "A.6",
+              "question": "E-mail"
+            },
+            {
+              "id": "A.7",
+              "question": "Telephone"
+            },
+            {
+              "id": "A.8",
+              "question": "Website"
+            },
+            {
+              "id": "A.9",
+              "question": "Financial year for which reporting is being done"
+            },
+            {
+              "id": "A.10",
+              "question": "Name of the Stock Exchange(s) where shares are listed"
+            },
+            {
+              "id": "A.11",
+              "question": "Paid-up Capital"
+            },
+            {
+              "id": "A.12",
+              "question": "Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR report"
+            },
+            {
+              "id": "A.13",
+              "question": "Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e. only for the entity) or on a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated financial statements, taken together)."
+            }
+          ]
+        },
+        "products_services": {
+          "title": "Products/services",
+          "questions": [
+            {
+              "id": "A.14",
+              "question": "Details of business activities (accounting for 90% of the turnover).",
+              "type": "table",
+              "columns": [
+                "S. No.",
+                "Description of Main Activity",
+                "Description of Business Activity",
+                "% of Turnover of the entity"
+              ]
+            },
+            {
+              "id": "A.15",
+              "question": "Products/Services sold by the entity (accounting for 90% of the entity’s Turnover).",
+              "type": "table",
+              "columns": [
+                "S. No.",
+                "Product/Service",
+                "NIC Code",
+                "% of total Turnover contributed"
+              ]
+            }
+          ]
+        },
+        "operations": {
+          "title": "Operations",
+          "questions": [
+            {
+              "id": "A.16",
+              "question": "Number of locations where plants and/or operations/offices of the entity are situated.",
+              "type": "table",
+              "columns": [
+                "Location",
+                "Number of plants",
+                "Number of offices",
+                "Total"
+              ],
+              "rows": [
+                "National",
+                "International"
+              ]
+            },
+            {
+              "id": "A.17",
+              "question": "Markets served by the entity.",
+              "sub_question": "Number of locations",
+              "type": "table",
+              "columns": [
+                "Locations",
+                "Number"
+              ],
+              "rows": [
+                "National (No. of States)",
+                "International (No. of Countries)"
+              ]
+            },
+            {
+              "id": "A.18",
+              "question": "What is the contribution of exports as a percentage of the total turnover of the entity?"
+            },
+            {
+              "id": "A.19",
+              "question": "A brief on types of customers"
+            }
+          ]
+        },
+        "employees": {
+          "title": "Employees",
+          "questions": [
+            {
+              "id": "A.20",
+              "question": "Details of Employees and workers (including differently abled) as at the end of Financial Year.",
+              "type": "table",
+              "columns": [
+                "S. No.",
+                "Particulars",
+                "Total (A)",
+                "Male No. (B)",
+                "Male % (B / A)",
+                "Female No. (C)",
+                "Female % (C / A)"
+              ],
+              "rows": [
+                "EMPLOYEES - Permanent (D)",
+                "EMPLOYEES - Other than Permanent (E)",
+                "EMPLOYEES - Total employees (D + E)",
+                "WORKERS - Permanent (F)",
+                "WORKERS - Other than Permanent (G)",
+                "WORKERS - Total workers (F + G)"
+              ]
+            },
+            {
+              "id": "A.21",
+              "question": "Details of Differently abled Employees and workers as at the end of Financial Year.",
+              "type": "table",
+              "columns": [
+                "S. No.",
+                "Particulars",
+                "Total (A)",
+                "Male No. (B)",
+                "Male % (B / A)",
+                "Female No. (C)",
+                "Female % (C / A)"
+              ],
+              "rows": [
+                "DIFFERENTLY ABLED EMPLOYEES - Permanent (D)",
+                "DIFFERENTLY ABLED EMPLOYEES - Other than Permanent (E)",
+                "DIFFERENTLY ABLED EMPLOYEES - Total differently abled employees (D + E)",
+                "DIFFERENTLY ABLED WORKERS - Permanent (F)",
+                "DIFFERENTLY ABLED WORKERS - Other than permanent (G)",
+                "DIFFERENTLY ABLED WORKERS - Total differently abled workers (F + G)"
+              ]
+            },
+            {
+              "id": "A.22",
+              "question": "Participation/Inclusion/Representation of women.",
+              "type": "table",
+              "columns": [
+                "Category",
+                "Total (A)",
+                "No. of Females (B)",
+                "% of Females (B / A)"
+              ],
+              "rows": [
+                "Board of Directors",
+                "Key Management Personnel"
+              ]
+            },
+            {
+              "id": "A.23",
+              "question": "Turnover rate for permanent employees and workers.",
+              "note": "Disclose trends for the past 3 years",
+              "type": "table",
+              "columns": [
+                "Category",
+                "Current FY - Male",
+                "Current FY - Female",
+                "Current FY - Total",
+                "Previous FY - Male",
+                "Previous FY - Female",
+                "Previous FY - Total",
+                "Year prior to previous FY - Male",
+                "Year prior to previous FY - Female",
+                "Year prior to previous FY - Total"
+              ],
+              "rows": [
+                "Permanent Employees",
+                "Permanent Workers"
+              ]
+            }
+          ]
+        },
+        "holding_subsidiary_associates": {
+          "title": "Holding, Subsidiary and Associate Companies (including joint ventures)",
+          "questions": [
+            {
+              "id": "A.24",
+              "question": "Names of holding / subsidiary / associate companies / joint ventures.",
+              "type": "table",
+              "columns": [
+                "S. No.",
+                "Name of the holding / subsidiary / associate companies / joint ventures (A)",
+                "Indicate whether holding/ Subsidiary/ Associate/ Joint Venture",
+                "% of shares held by listed entity",
+                "Does the entity participate in the Business Responsibility initiatives of the listed entity? (Yes/No)"
+              ]
+            }
+          ]
+        },
+        "csr_details": {
+          "title": "CSR Details",
+          "questions": [
+            {
+              "id": "A.25",
+              "question": "Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)"
+            },
+            {
+              "id": "A.26",
+              "question": "Turnover (in Rs.)"
+            },
+            {
+              "id": "A.27",
+              "question": "Net worth (in Rs.)"
+            }
+          ]
+        },
+        "transparency_and_disclosures_compliances": {
+          "title": "Transparency and Disclosures Compliances",
+          "questions": [
+            {
+              "id": "A.28",
+              "question": "Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct.",
+              "type": "table",
+              "columns": [
+                "Stakeholder group from whom complaint is received",
+                "Grievance Redressal Mechanism in Place (Yes/No) (If Yes, then provide web-link for grievance redress policy)",
+                "Current FY - Number of complaints filed during the year",
+                "Current FY - Number of complaints pending resolution at close of the year",
+                "Current FY - Remarks",
+                "Previous FY - Number of complaints filed during the year",
+                "Previous FY - Number of complaints pending resolution at close of the year",
+                "Previous FY - Remarks"
+              ],
+              "rows": [
+                "Communities",
+                "Investors (other than shareholders)",
+                "Shareholders",
+                "Employees and workers",
+                "Customers",
+                "Value Chain Partners",
+                "Other (please specify)"
+              ]
+            }
+          ]
+        },
+        "material_issues": {
+          "title": "Overview of the entity’s material responsible business conduct issues",
+          "questions": [
+            {
+              "id": "A.29",
+              "question": "Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk along-with its financial implications.",
+              "type": "table",
+              "columns": [
+                "S. No.",
+                "Material issue identified",
+                "Indicate whether risk or opportunity (R/O)",
+                "Rationale for identifying the risk / opportunity",
+                "In case of risk, approach to adapt or mitigate",
+                "Financial implications of the risk or opportunity (Indicate positive or negative implications)"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "section_b_management_and_process_disclosures": {
+      "title": "SECTION B: MANAGEMENT AND PROCESS DISCLOSURES",
+      "categories": {
+        "policy_and_management_processes": {
+          "title": "Policy and management processes",
+          "questions": [
+            {
+              "id": "B.1.a",
+              "question": "Whether your entity’s policy/policies cover each principle and its core elements of the NGRBCs. (Yes/No)",
+              "note": "Applicable for Principles 1-9"
+            },
+            {
+              "id": "B.1.b",
+              "question": "Has the policy been approved by the Board? (Yes/No)",
+              "note": "Applicable for Principles 1-9"
+            },
+            {
+              "id": "B.1.c",
+              "question": "Web Link of the Policies, if available.",
+              "note": "Applicable for Principles 1-9"
+            },
+            {
+              "id": "B.2",
+              "question": "Whether the entity has translated the policy into procedures. (Yes / No)",
+              "note": "Applicable for Principles 1-9"
+            },
+            {
+              "id": "B.3",
+              "question": "Do the enlisted policies extend to your value chain partners? (Yes/No)",
+              "note": "Applicable for Principles 1-9"
+            },
+            {
+              "id": "B.4",
+              "question": "Name of the national and international codes/certifications/labels/ standards adopted by your entity and mapped to each principle.",
+              "note": "Applicable for Principles 1-9"
+            },
+            {
+              "id": "B.5",
+              "question": "Specific commitments, goals and targets set by the entity with defined timelines, if any.",
+              "note": "Applicable for Principles 1-9"
+            },
+            {
+              "id": "B.6",
+              "question": "Performance of the entity against the specific commitments, goals and targets along-with reasons in case the same are not met.",
+              "note": "Applicable for Principles 1-9"
+            }
+          ]
+        },
+        "governance_leadership_oversight": {
+          "title": "Governance, leadership and oversight",
+          "questions": [
+            {
+              "id": "B.7",
+              "question": "Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and achievements.",
+              "note": "Listed entity has flexibility regarding the placement of this disclosure."
+            },
+            {
+              "id": "B.8",
+              "question": "Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy(ies)."
+            },
+            {
+              "id": "B.9",
+              "question": "Does the entity have a specified Committee of the Board/ Director responsible for decision making on sustainability related issues? (Yes / No). If yes, provide details."
+            },
+            {
+              "id": "B.10",
+              "question": "Details of Review of NGRBCs by the Company.",
+              "type": "table",
+              "columns": [
+                "Subject for Review",
+                "Indicate whether review was undertaken by Director / Committee of the Board/ Any other Committee (for Principles 1-9)",
+                "Frequency (Annually/ Half yearly/ Quarterly/ Any other – please specify) (for Principles 1-9)"
+              ],
+              "rows": [
+                "Performance against above policies and follow up action",
+                "Compliance with statutory requirements of relevance to the principles, and, rectification of any non-compliances"
+              ]
+            },
+            {
+              "id": "B.11",
+              "question": "Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency? (Yes/No). If yes, provide name of the agency.",
+              "note": "Applicable for Principles 1-9"
+            },
+            {
+              "id": "B.12",
+              "question": "If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:",
+              "type": "table",
+              "columns": [
+                "Reason",
+                "P1 (Yes/No)",
+                "P2 (Yes/No)",
+                "P3 (Yes/No)",
+                "P4 (Yes/No)",
+                "P5 (Yes/No)",
+                "P6 (Yes/No)",
+                "P7 (Yes/No)",
+                "P8 (Yes/No)",
+                "P9 (Yes/No)"
+              ],
+              "rows": [
+                "The entity does not consider the Principles material to its business",
+                "The entity is not at a stage where it is in a position to formulate and implement the policies on specified principles",
+                "The entity does not have the financial or/human and technical resources available for the task",
+                "It is planned to be done in the next financial year",
+                "Any other reason (please specify)"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "section_c_principle_wise_performance_disclosure": {
+      "title": "SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE",
+      "principles": {
+        "principle_1": {
+          "title": "PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is ethical, transparent and accountable.",
+          "indicators": {
+            "essential": [
+              {
+                "id": "C.P1.E.1",
+                "question": "Percentage coverage by training and awareness programmes on any of the Principles during the financial year.",
+                "type": "table",
+                "columns": [
+                  "Segment",
+                  "Total number of training and awareness programmes held",
+                  "Topics / principles covered under the training and its impact",
+                  "%age of persons in respective category covered by the awareness programmes"
+                ],
+                "rows": [
+                  "Board of Directors",
+                  "Key Managerial Personnel",
+                  "Employees other than BoD and KMPs",
+                  "Workers"
+                ]
+              },
+              {
+                "id": "C.P1.E.2",
+                "question": "Details of fines / penalties / punishment / award / compounding fees / settlement amount paid in proceedings (by the entity or by directors / KMPs) with regulators / law enforcement agencies / judicial institutions, in the financial year.",
+                "sub_questions": [
+                  {
+                    "type": "table",
+                    "category": "Monetary",
+                    "columns": [
+                      "Type",
+                      "NGRBC Principle",
+                      "Name of the regulatory/ enforcement agencies/ judicial institutions",
+                      "Amount (In INR)",
+                      "Brief of the Case",
+                      "Has an appeal been preferred? (Yes/No)"
+                    ]
+                  },
+                  {
+                    "type": "table",
+                    "category": "Non-Monetary",
+                    "columns": [
+                      "Type",
+                      "NGRBC Principle",
+                      "Name of the regulatory/ enforcement agencies/ judicial institutions",
+                      "Brief of the Case",
+                      "Has an appeal been preferred? (Yes/No)"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "C.P1.E.3",
+                "question": "Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary action has been appealed.",
+                "type": "table",
+                "columns": [
+                  "Case Details",
+                  "Name of the regulatory/ enforcement agencies/ judicial institutions"
+                ]
+              },
+              {
+                "id": "C.P1.E.4",
+                "question": "Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to the policy."
+              },
+              {
+                "id": "C.P1.E.5",
+                "question": "Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the charges of bribery/ corruption.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "FY (Current Financial Year)",
+                  "FY (Previous Financial Year)"
+                ],
+                "rows": [
+                  "Directors",
+                  "KMPs",
+                  "Employees",
+                  "Workers"
+                ]
+              },
+              {
+                "id": "C.P1.E.6",
+                "question": "Details of complaints with regard to conflict of interest.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Number",
+                  "Current FY - Remarks",
+                  "Previous FY - Number",
+                  "Previous FY - Remarks"
+                ],
+                "rows": [
+                  "Number of complaints received in relation to issues of Conflict of Interest of the Directors",
+                  "Number of complaints received in relation to issues of Conflict of Interest of the KMPs"
+                ]
+              },
+              {
+                "id": "C.P1.E.7",
+                "question": "Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest."
+              }
+            ],
+            "leadership": [
+              {
+                "id": "C.P1.L.1",
+                "question": "Awareness programmes conducted for value chain partners on any of the Principles during the financial year.",
+                "type": "table",
+                "columns": [
+                  "Total number of awareness programmes held",
+                  "Topics / principles covered under the training",
+                  "%age of value chain partners covered (by value of business done with such partners) under the awareness programmes"
+                ]
+              },
+              {
+                "id": "C.P1.L.2",
+                "question": "Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If Yes, provide details of the same."
+              }
+            ]
+          }
+        },
+        "principle_2": {
+          "title": "PRINCIPLE 2: Businesses should provide goods and services in a manner that is safe and contributes to sustainability throughout their life cycle.",
+          "indicators": {
+            "essential": [
+              {
+                "id": "C.P2.E.1",
+                "question": "Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current Financial Year",
+                  "Previous Financial Year",
+                  "Details of improvements in environmental and social impacts"
+                ],
+                "rows": [
+                  "R&D",
+                  "Capex"
+                ]
+              },
+              {
+                "id": "C.P2.E.2.a",
+                "question": "Does the entity have procedures in place for sustainable sourcing? (Yes/No)"
+              },
+              {
+                "id": "C.P2.E.2.b",
+                "question": "If yes, what percentage of inputs were sourced sustainably?"
+              },
+              {
+                "id": "C.P2.E.3",
+                "question": "Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste."
+              },
+              {
+                "id": "C.P2.E.4",
+                "question": "Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps taken to address the same."
+              }
+            ],
+            "leadership": [
+              {
+                "id": "C.P2.L.1",
+                "question": "Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for its services (for service industry)? If yes, provide details in the following format.",
+                "type": "table",
+                "columns": [
+                  "NIC Code",
+                  "Name of Product/Service",
+                  "% of total Turnover contributed",
+                  "Boundary for which the Life Cycle Perspective / Assessment was conducted",
+                  "Whether conducted by independent external agency (Yes/No)",
+                  "Results communicated in public domain (Yes/No)",
+                  "If yes, provide the web-link."
+                ]
+              },
+              {
+                "id": "C.P2.L.2",
+                "question": "If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same along-with action taken to mitigate the same.",
+                "type": "table",
+                "columns": [
+                  "Name of Product / Service",
+                  "Description of the risk / concern",
+                  "Action Taken"
+                ]
+              },
+              {
+                "id": "C.P2.L.3",
+                "question": "Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or providing services (for service industry).",
+                "type": "table",
+                "columns": [
+                  "Indicate input material",
+                  "Recycled or re-used input material to total material (Current Financial Year)",
+                  "Recycled or re-used input material to total material (Previous Financial Year)"
+                ]
+              },
+              {
+                "id": "C.P2.L.4",
+                "question": "Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Re-Used",
+                  "Current FY - Recycled",
+                  "Current FY - Safely Disposed",
+                  "Previous FY - Re-Used",
+                  "Previous FY - Recycled",
+                  "Previous FY - Safely Disposed"
+                ],
+                "rows": [
+                  "Plastics (including packaging)",
+                  "E-waste",
+                  "Hazardous waste",
+                  "Other waste"
+                ]
+              },
+              {
+                "id": "C.P2.L.5",
+                "question": "Reclaimed products and their packaging materials (as percentage of products sold) for each product category."
+              }
+            ]
+          }
+        },
+        "principle_3": {
+          "title": "PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their value chains.",
+          "indicators": {
+            "essential": [
+              {
+                "id": "C.P3.E.1.a",
+                "question": "Details of measures for the well-being of employees.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Total (A)",
+                  "Health insurance No. (B)",
+                  "Health insurance % (B/A)",
+                  "Accident insurance No. (C)",
+                  "Accident insurance % (C/A)",
+                  "Maternity benefits No. (D)",
+                  "Maternity benefits % (D/A)",
+                  "Paternity Benefits No. (E)",
+                  "Paternity Benefits % (E/A)",
+                  "Day Care facilities No. (F)",
+                  "Day Care facilities % (F/A)"
+                ],
+                "rows": [
+                  "Permanent employees - Male",
+                  "Permanent employees - Female",
+                  "Permanent employees - Total",
+                  "Other than Permanent employees - Male",
+                  "Other than Permanent employees - Female",
+                  "Other than Permanent employees - Total"
+                ]
+              },
+              {
+                "id": "C.P3.E.1.b",
+                "question": "Details of measures for the well-being of workers.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Total (A)",
+                  "Health insurance No. (B)",
+                  "Health insurance % (B/A)",
+                  "Accident insurance No. (C)",
+                  "Accident insurance % (C/A)",
+                  "Maternity benefits No. (D)",
+                  "Maternity benefits % (D/A)",
+                  "Paternity Benefits No. (E)",
+                  "Paternity Benefits % (E/A)",
+                  "Day Care facilities No. (F)",
+                  "Day Care facilities % (F/A)"
+                ],
+                "rows": [
+                  "Permanent workers - Male",
+                  "Permanent workers - Female",
+                  "Permanent workers - Total",
+                  "Other than Permanent workers - Male",
+                  "Other than Permanent workers - Female",
+                  "Other than Permanent workers - Total"
+                ]
+              },
+              {
+                "id": "C.P3.E.2",
+                "question": "Details of retirement benefits, for Current FY and Previous Financial Year.",
+                "type": "table",
+                "columns": [
+                  "Benefits",
+                  "Current FY - No. of employees covered as a % of total employees",
+                  "Current FY - No. of workers covered as a % of total workers",
+                  "Current FY - Deducted and deposited with the authority (Y/N/N.A.)",
+                  "Previous FY - No. of employees covered as a % of total employees",
+                  "Previous FY - No. of workers covered as a % of total workers",
+                  "Previous FY - Deducted and deposited with the authority (Y/N/N.A.)"
+                ],
+                "rows": [
+                  "PF",
+                  "Gratuity",
+                  "ESI",
+                  "Others – please specify"
+                ]
+              },
+              {
+                "id": "C.P3.E.3",
+                "question": "Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard."
+              },
+              {
+                "id": "C.P3.E.4",
+                "question": "Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to the policy."
+              },
+              {
+                "id": "C.P3.E.5",
+                "question": "Return to work and Retention rates of permanent employees and workers that took parental leave.",
+                "type": "table",
+                "columns": [
+                  "Gender",
+                  "Permanent employees - Return to work rate",
+                  "Permanent employees - Retention rate",
+                  "Permanent workers - Return to work rate",
+                  "Permanent workers - Retention rate"
+                ],
+                "rows": [
+                  "Male",
+                  "Female",
+                  "Total"
+                ]
+              },
+              {
+                "id": "C.P3.E.6",
+                "question": "Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If yes, give details of the mechanism in brief.",
+                "categories": [
+                  "Permanent Workers",
+                  "Other than Permanent Workers",
+                  "Permanent Employees",
+                  "Other than Permanent Employees"
+                ]
+              },
+              {
+                "id": "C.P3.E.7",
+                "question": "Membership of employees and worker in association(s) or Unions recognised by the listed entity.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Total employees/workers",
+                  "Current FY - No. who are part of association(s) or Union",
+                  "Current FY - %",
+                  "Previous FY - Total employees/workers",
+                  "Previous FY - No. who are part of association(s) or Union",
+                  "Previous FY - %"
+                ],
+                "rows": [
+                  "Permanent employees",
+                  "Permanent workers"
+                ]
+              },
+              {
+                "id": "C.P3.E.8",
+                "question": "Details of training given to employees and workers.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Total (A)",
+                  "Current FY - On Health and safety measures No. (B)",
+                  "Current FY - On Health and safety measures % (B/A)",
+                  "Current FY - On Skill upgradation No. (C)",
+                  "Current FY - On Skill upgradation % (C/A)",
+                  "Previous FY - Total (D)",
+                  "Previous FY - On Health and safety measures No. (E)",
+                  "Previous FY - On Health and safety measures % (E/D)",
+                  "Previous FY - On Skill upgradation No. (F)",
+                  "Previous FY - On Skill upgradation % (F/D)"
+                ],
+                "rows": [
+                  "Employees - Male",
+                  "Employees - Female",
+                  "Employees - Total",
+                  "Workers - Male",
+                  "Workers - Female",
+                  "Workers - Total"
+                ]
+              },
+              {
+                "id": "C.P3.E.9",
+                "question": "Details of performance and career development reviews of employees and worker.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Total (A)",
+                  "Current FY - No. (B)",
+                  "Current FY - % (B/A)",
+                  "Previous FY - Total (C)",
+                  "Previous FY - No. (D)",
+                  "Previous FY - % (D/C)"
+                ],
+                "rows": [
+                  "Employees - Male",
+                  "Employees - Female",
+                  "Employees - Total",
+                  "Workers - Male",
+                  "Workers - Female",
+                  "Workers - Total"
+                ]
+              },
+              {
+                "id": "C.P3.E.10.a",
+                "question": "Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the coverage such system?"
+              },
+              {
+                "id": "C.P3.E.10.b",
+                "question": "What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?"
+              },
+              {
+                "id": "C.P3.E.10.c",
+                "question": "Whether you have processes for workers to report the work related hazards and to remove themselves from such risks. (Y/N)"
+              },
+              {
+                "id": "C.P3.E.10.d",
+                "question": "Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)"
+              },
+              {
+                "id": "C.P3.E.11",
+                "question": "Details of safety related incidents.",
+                "type": "table",
+                "columns": [
+                  "Safety Incident/Number",
+                  "Current Financial Year",
+                  "Previous Financial Year"
+                ],
+                "rows": [
+                  "Lost Time Injury Frequency Rate (LTIFR) - Employees",
+                  "Lost Time Injury Frequency Rate (LTIFR) - Workers",
+                  "Total recordable work-related injuries - Employees",
+                  "Total recordable work-related injuries - Workers",
+                  "No. of fatalities - Employees",
+                  "No. of fatalities - Workers",
+                  "High consequence work-related injury or ill-health - Employees",
+                  "High consequence work-related injury or ill-health - Workers"
+                ]
+              },
+              {
+                "id": "C.P3.E.12",
+                "question": "Describe the measures taken by the entity to ensure a safe and healthy work place."
+              },
+              {
+                "id": "C.P3.E.13",
+                "question": "Number of Complaints on the following made by employees and workers:",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Filed during the year",
+                  "Current FY - Pending resolution at the end of year",
+                  "Current FY - Remarks",
+                  "Previous FY - Filed during the year",
+                  "Previous FY - Pending resolution at the end of year",
+                  "Previous FY - Remarks"
+                ],
+                "rows": [
+                  "Working Conditions",
+                  "Health & Safety"
+                ]
+              },
+              {
+                "id": "C.P3.E.14",
+                "question": "Assessments for the year.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "% of your plants and offices that were assessed"
+                ],
+                "rows": [
+                  "Health and safety practices",
+                  "Working Conditions"
+                ]
+              },
+              {
+                "id": "C.P3.E.15",
+                "question": "Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / concerns arising from assessments of health & safety practices and working conditions."
+              }
+            ],
+            "leadership": [
+              {
+                "id": "C.P3.L.1",
+                "question": "Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) Workers (Y/N)."
+              },
+              {
+                "id": "C.P3.L.2",
+                "question": "Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain partners."
+              },
+              {
+                "id": "C.P3.L.3",
+                "question": "Provide the number of employees / workers having suffered high consequence work-related injury / ill-health / fatalities who have been are rehabilitated and placed in suitable employment or whose family members have been placed in suitable employment.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Total no. of affected employees/workers",
+                  "Previous FY - Total no. of affected employees/workers",
+                  "Current FY - No. rehabilitated/placed",
+                  "Previous FY - No. rehabilitated/placed"
+                ],
+                "rows": [
+                  "Employees",
+                  "Workers"
+                ]
+              },
+              {
+                "id": "C.P3.L.4",
+                "question": "Does the entity provide transition assistance programs to facilitate continued employability and the management of career endings resulting from retirement or termination of employment? (Yes/ No)"
+              },
+              {
+                "id": "C.P3.L.5",
+                "question": "Details on assessment of value chain partners.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "% of value chain partners that were assessed"
+                ],
+                "rows": [
+                  "Health and safety practices",
+                  "Working Conditions"
+                ]
+              },
+              {
+                "id": "C.P3.L.6",
+                "question": "Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of health and safety practices and working conditions of value chain partners."
+              }
+            ]
+          }
+        },
+        "principle_4": {
+          "title": "PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders",
+          "indicators": {
+            "essential": [
+              {
+                "id": "C.P4.E.1",
+                "question": "Describe the processes for identifying key stakeholder groups of the entity."
+              },
+              {
+                "id": "C.P4.E.2",
+                "question": "List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.",
+                "type": "table",
+                "columns": [
+                  "Stakeholder Group",
+                  "Whether identified as Vulnerable & Marginalized Group (Yes/No)",
+                  "Channels of communication",
+                  "Frequency of engagement",
+                  "Purpose and scope of engagement including topics and concerns raised"
+                ]
+              }
+            ],
+            "leadership": [
+              {
+                "id": "C.P4.L.1",
+                "question": "Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if consultation is delegated, how is feedback from such consultations provided to the Board."
+              },
+              {
+                "id": "C.P4.L.2",
+                "question": "Whether stakeholder consultation is used to support the identification and management of environmental, and social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into policies and activities of the entity."
+              },
+              {
+                "id": "C.P4.L.3",
+                "question": "Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized stakeholder groups."
+              }
+            ]
+          }
+        },
+        "principle_5": {
+          "title": "PRINCIPLE 5: Businesses should respect and promote human rights",
+          "indicators": {
+            "essential": [
+              {
+                "id": "C.P5.E.1",
+                "question": "Employees and workers who have been provided training on human rights issues and policy(ies) of the entity.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Total (A)",
+                  "Current FY - No. covered (B)",
+                  "Current FY - % (B/A)",
+                  "Previous FY - Total (C)",
+                  "Previous FY - No. covered (D)",
+                  "Previous FY - % (D/C)"
+                ],
+                "rows": [
+                  "Employees - Permanent",
+                  "Employees - Other than permanent",
+                  "Total Employees",
+                  "Workers - Permanent",
+                  "Workers - Other than permanent",
+                  "Total Workers"
+                ]
+              },
+              {
+                "id": "C.P5.E.2",
+                "question": "Details of minimum wages paid to employees and workers.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Total (A)",
+                  "Current FY - Equal to Minimum Wage No. (B)",
+                  "Current FY - Equal to Minimum Wage % (B/A)",
+                  "Current FY - More than Minimum Wage No. (C)",
+                  "Current FY - More than Minimum Wage % (C/A)",
+                  "Previous FY - Total (D)",
+                  "Previous FY - Equal to Minimum Wage No. (E)",
+                  "Previous FY - Equal to Minimum Wage % (E/D)",
+                  "Previous FY - More than Minimum Wage No. (F)",
+                  "Previous FY - More than Minimum Wage % (F/D)"
+                ],
+                "rows": [
+                  "Employees - Permanent - Male",
+                  "Employees - Permanent - Female",
+                  "Employees - Other than Permanent - Male",
+                  "Employees - Other than Permanent - Female",
+                  "Workers - Permanent - Male",
+                  "Workers - Permanent - Female",
+                  "Workers - Other than Permanent - Male",
+                  "Workers - Other than Permanent - Female"
+                ]
+              },
+              {
+                "id": "C.P5.E.3",
+                "question": "Details of remuneration/salary/wages.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Male - Number",
+                  "Male - Median remuneration/salary/wages",
+                  "Female - Number",
+                  "Female - Median remuneration/salary/wages"
+                ],
+                "rows": [
+                  "Board of Directors (BoD)",
+                  "Key Managerial Personnel",
+                  "Employees other than BoD and KMP",
+                  "Workers"
+                ]
+              },
+              {
+                "id": "C.P5.E.4",
+                "question": "Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed to by the business? (Yes/No)"
+              },
+              {
+                "id": "C.P5.E.5",
+                "question": "Describe the internal mechanisms in place to redress grievances related to human rights issues."
+              },
+              {
+                "id": "C.P5.E.6",
+                "question": "Number of Complaints on the following made by employees and workers:",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Filed during the year",
+                  "Current FY - Pending resolution at the end of year",
+                  "Current FY - Remarks",
+                  "Previous FY - Filed during the year",
+                  "Previous FY - Pending resolution at the end of year",
+                  "Previous FY - Remarks"
+                ],
+                "rows": [
+                  "Sexual Harassment",
+                  "Discrimination at workplace",
+                  "Child Labour",
+                  "Forced Labour/Involuntary Labour",
+                  "Wages",
+                  "Other human rights related issues"
+                ]
+              },
+              {
+                "id": "C.P5.E.7",
+                "question": "Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases."
+              },
+              {
+                "id": "C.P5.E.8",
+                "question": "Do human rights requirements form part of your business agreements and contracts? (Yes/No)"
+              },
+              {
+                "id": "C.P5.E.9",
+                "question": "Assessments for the year.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "% of your plants and offices that were assessed"
+                ],
+                "rows": [
+                  "Child labour",
+                  "Forced/involuntary labour",
+                  "Sexual harassment",
+                  "Discrimination at workplace",
+                  "Wages",
+                  "Others – please specify"
+                ]
+              },
+              {
+                "id": "C.P5.E.10",
+                "question": "Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at Question 9 above."
+              }
+            ],
+            "leadership": [
+              {
+                "id": "C.P5.L.1",
+                "question": "Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints."
+              },
+              {
+                "id": "C.P5.L.2",
+                "question": "Details of the scope and coverage of any Human rights due-diligence conducted."
+              },
+              {
+                "id": "C.P5.L.3",
+                "question": "Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with Disabilities Act, 2016?"
+              },
+              {
+                "id": "C.P5.L.4",
+                "question": "Details on assessment of value chain partners.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "% of value chain partners that were assessed"
+                ],
+                "rows": [
+                  "Sexual Harassment",
+                  "Discrimination at workplace",
+                  "Child Labour",
+                  "Forced Labour/Involuntary Labour",
+                  "Wages",
+                  "Others – please specify"
+                ]
+              },
+              {
+                "id": "C.P5.L.5",
+                "question": "Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at Question 4 above."
+              }
+            ]
+          }
+        },
+        "principle_6": {
+          "title": "PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment",
+          "indicators": {
+            "essential": [
+              {
+                "id": "C.P6.E.1",
+                "question": "Details of total energy consumption (in Joules or multiples) and energy intensity.",
+                "type": "table",
+                "columns": [
+                  "Parameter",
+                  "FY (Current Financial Year)",
+                  "FY (Previous Financial Year)"
+                ],
+                "rows": [
+                  "Total electricity consumption (A)",
+                  "Total fuel consumption (B)",
+                  "Energy consumption through other sources (C)",
+                  "Total energy consumption (A+B+C)",
+                  "Energy intensity per rupee of turnover",
+                  "Energy intensity (optional)"
+                ],
+                "note": "Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency."
+              },
+              {
+                "id": "C.P6.E.2",
+                "question": "Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any."
+              },
+              {
+                "id": "C.P6.E.3",
+                "question": "Provide details of the following disclosures related to water.",
+                "type": "table",
+                "columns": [
+                  "Parameter",
+                  "FY (Current Financial Year)",
+                  "FY (Previous Financial Year)"
+                ],
+                "rows": [
+                  "Water withdrawal by source (in kilolitres) - (i) Surface water",
+                  "Water withdrawal by source (in kilolitres) - (ii) Groundwater",
+                  "Water withdrawal by source (in kilolitres) - (iii) Third party water",
+                  "Water withdrawal by source (in kilolitres) - (iv) Seawater / desalinated water",
+                  "Water withdrawal by source (in kilolitres) - (v) Others",
+                  "Total volume of water withdrawal (in kilolitres)",
+                  "Total volume of water consumption (in kilolitres)",
+                  "Water intensity per rupee of turnover",
+                  "Water intensity (optional)"
+                ],
+                "note": "Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency."
+              },
+              {
+                "id": "C.P6.E.4",
+                "question": "Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation."
+              },
+              {
+                "id": "C.P6.E.5",
+                "question": "Please provide details of air emissions (other than GHG emissions) by the entity.",
+                "type": "table",
+                "columns": [
+                  "Parameter",
+                  "Please specify unit",
+                  "FY (Current Financial Year)",
+                  "FY (Previous Financial Year)"
+                ],
+                "rows": [
+                  "NOx",
+                  "SOx",
+                  "Particulate matter (PM)",
+                  "Persistent organic pollutants (POP)",
+                  "Volatile organic compounds (VOC)",
+                  "Hazardous air pollutants (HAP)",
+                  "Others – please specify"
+                ],
+                "note": "Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency."
+              },
+              {
+                "id": "C.P6.E.6",
+                "question": "Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity.",
+                "type": "table",
+                "columns": [
+                  "Parameter",
+                  "Unit",
+                  "FY (Current Financial Year)",
+                  "FY (Previous Financial Year)"
+                ],
+                "rows": [
+                  "Total Scope 1 emissions",
+                  "Total Scope 2 emissions",
+                  "Total Scope 1 and Scope 2 emissions per rupee of turnover",
+                  "Total Scope 1 and Scope 2 emission intensity (optional)"
+                ],
+                "note": "Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency."
+              },
+              {
+                "id": "C.P6.E.7",
+                "question": "Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details."
+              },
+              {
+                "id": "C.P6.E.8",
+                "question": "Provide details related to waste management by the entity.",
+                "tables": [
+                  {
+                    "title": "Total Waste generated (in metric tonnes)",
+                    "columns": [
+                      "Parameter",
+                      "FY (Current Financial Year)",
+                      "FY (Previous Financial Year)"
+                    ],
+                    "rows": [
+                      "Plastic waste (A)",
+                      "E-waste (B)",
+                      "Bio-medical waste (C)",
+                      "Construction and demolition waste (D)",
+                      "Battery waste (E)",
+                      "Radioactive waste (F)",
+                      "Other Hazardous waste. Please specify, if any. (G)",
+                      "Other Non-hazardous waste generated (H)",
+                      "Total (A+B + C + D + E + F + G + H)"
+                    ]
+                  },
+                  {
+                    "title": "Total waste recovered through recycling, re-using or other recovery operations (in metric tonnes)",
+                    "columns": [
+                      "Category of waste",
+                      "FY (Current Financial Year)",
+                      "FY (Previous Financial Year)"
+                    ],
+                    "rows": [
+                      "(i) Recycled",
+                      "(ii) Re-used",
+                      "(iii) Other recovery operations",
+                      "Total"
+                    ]
+                  },
+                  {
+                    "title": "Total waste disposed by nature of disposal method (in metric tonnes)",
+                    "columns": [
+                      "Category of waste",
+                      "FY (Current Financial Year)",
+                      "FY (Previous Financial Year)"
+                    ],
+                    "rows": [
+                      "(i) Incineration",
+                      "(ii) Landfilling",
+                      "(iii) Other disposal operations",
+                      "Total"
+                    ]
+                  }
+                ],
+                "note": "Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency."
+              },
+              {
+                "id": "C.P6.E.9",
+                "question": "Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such wastes."
+              },
+              {
+                "id": "C.P6.E.10",
+                "question": "If the entity has operations/offices in/around ecologically sensitive areas where environmental approvals / clearances are required, please specify details.",
+                "type": "table",
+                "columns": [
+                  "S. No.",
+                  "Location of operations/offices",
+                  "Type of operations",
+                  "Whether the conditions of environmental approval / clearance are being complied with? (Y/N)",
+                  "If no, the reasons thereof and corrective action taken, if any."
+                ]
+              },
+              {
+                "id": "C.P6.E.11",
+                "question": "Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial year.",
+                "type": "table",
+                "columns": [
+                  "Name and brief details of project",
+                  "EIA Notification No.",
+                  "Date",
+                  "Whether conducted by independent external agency (Yes / No)",
+                  "Results communicated in public domain (Yes / No)",
+                  "Relevant Web link"
+                ]
+              },
+              {
+                "id": "C.P6.E.12",
+                "question": "Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India? (Y/N). If not, provide details of all such non-compliances.",
+                "type": "table",
+                "columns": [
+                  "S. No.",
+                  "Specify the law / regulation / guidelines which was not complied with",
+                  "Provide details of the non-compliance",
+                  "Any fines / penalties / action taken by regulatory agencies such as pollution control boards or by courts",
+                  "Corrective action taken, if any"
+                ]
+              }
+            ],
+            "leadership": [
+              {
+                "id": "C.P6.L.1",
+                "question": "Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources.",
+                "type": "table",
+                "columns": [
+                  "Parameter",
+                  "FY (Current Financial Year)",
+                  "FY (Previous Financial Year)"
+                ],
+                "rows": [
+                  "From renewable sources - Total electricity consumption (A)",
+                  "From renewable sources - Total fuel consumption (B)",
+                  "From renewable sources - Energy consumption through other sources (C)",
+                  "Total energy consumed from renewable sources (A+B+C)",
+                  "From non-renewable sources - Total electricity consumption (D)",
+                  "From non-renewable sources - Total fuel consumption (E)",
+                  "From non-renewable sources - Energy consumption through other sources (F)",
+                  "Total energy consumed from non-renewable sources (D+E+F)"
+                ],
+                "note": "Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency."
+              },
+              {
+                "id": "C.P6.L.2",
+                "question": "Provide the following details related to water discharged.",
+                "type": "table",
+                "columns": [
+                  "Parameter",
+                  "FY (Current Financial Year)",
+                  "FY (Previous Financial Year)"
+                ],
+                "rows": [
+                  "Water discharge by destination and level of treatment (in kilolitres) - (i) To Surface water - No treatment",
+                  "Water discharge by destination and level of treatment (in kilolitres) - (i) To Surface water - With treatment",
+                  "Water discharge by destination and level of treatment (in kilolitres) - (ii) To Groundwater - No treatment",
+                  "Water discharge by destination and level of treatment (in kilolitres) - (ii) To Groundwater - With treatment",
+                  "Water discharge by destination and level of treatment (in kilolitres) - (iii) To Seawater - No treatment",
+                  "Water discharge by destination and level of treatment (in kilolitres) - (iii) To Seawater - With treatment",
+                  "Water discharge by destination and level of treatment (in kilolitres) - (iv) Sent to third-parties - No treatment",
+                  "Water discharge by destination and level of treatment (in kilolitres) - (iv) Sent to third-parties - With treatment",
+                  "Water discharge by destination and level of treatment (in kilolitres) - (v) Others - No treatment",
+                  "Water discharge by destination and level of treatment (in kilolitres) - (v) Others - With treatment",
+                  "Total water discharged (in kilolitres)"
+                ],
+                "note": "Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency."
+              },
+              {
+                "id": "C.P6.L.3",
+                "question": "Water withdrawal, consumption and discharge in areas of water stress (in kilolitres). For each facility / plant located in areas of water stress, provide: Name of the area, Nature of operations, and details in the table format.",
+                "preliminary_questions": [
+                  "Name of the area",
+                  "Nature of operations"
+                ],
+                "table": {
+                  "columns": [
+                    "Parameter",
+                    "FY (Current Financial Year)",
+                    "FY (Previous Financial Year)"
+                  ],
+                  "rows": [
+                    "Water withdrawal by source (in kilolitres) - (i) Surface water",
+                    "Water withdrawal by source (in kilolitres) - (ii) Groundwater",
+                    "Water withdrawal by source (in kilolitres) - (iii) Third party water",
+                    "Water withdrawal by source (in kilolitres) - (iv) Seawater / desalinated water",
+                    "Water withdrawal by source (in kilolitres) - (v) Others",
+                    "Total volume of water withdrawal (in kilolitres)",
+                    "Total volume of water consumption (in kilolitres)",
+                    "Water intensity per rupee of turnover",
+                    "Water intensity (optional)",
+                    "Water discharge by destination and level of treatment (in kilolitres) - (i) Into Surface water - No treatment",
+                    "Water discharge by destination and level of treatment (in kilolitres) - (i) Into Surface water - With treatment",
+                    "Water discharge by destination and level of treatment (in kilolitres) - (ii) Into Groundwater - No treatment",
+                    "Water discharge by destination and level of treatment (in kilolitres) - (ii) Into Groundwater - With treatment",
+                    "Water discharge by destination and level of treatment (in kilolitres) - (iii) Into Seawater - No treatment",
+                    "Water discharge by destination and level of treatment (in kilolitres) - (iii) Into Seawater - With treatment",
+                    "Water discharge by destination and level of treatment (in kilolitres) - (iv) Sent to third-parties - No treatment",
+                    "Water discharge by destination and level of treatment (in kilolitres) - (iv) Sent to third-parties - With treatment",
+                    "Water discharge by destination and level of treatment (in kilolitres) - (v) Others - No treatment",
+                    "Water discharge by destination and level of treatment (in kilolitres) - (v) Others - With treatment",
+                    "Total water discharged (in kilolitres)"
+                  ]
+                },
+                "note": "Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency."
+              },
+              {
+                "id": "C.P6.L.4",
+                "question": "Please provide details of total Scope 3 emissions & its intensity.",
+                "type": "table",
+                "columns": [
+                  "Parameter",
+                  "Unit",
+                  "FY (Current Financial Year)",
+                  "FY (Previous Financial Year)"
+                ],
+                "rows": [
+                  "Total Scope 3 emissions",
+                  "Total Scope 3 emissions per rupee of turnover",
+                  "Total Scope 3 emission intensity (optional)"
+                ],
+                "note": "Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency."
+              },
+              {
+                "id": "C.P6.L.5",
+                "question": "With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities."
+              },
+              {
+                "id": "C.P6.L.6",
+                "question": "If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome of such initiatives.",
+                "type": "table",
+                "columns": [
+                  "Sr. No",
+                  "Initiative undertaken",
+                  "Details of the initiative",
+                  "Outcome of the initiative"
+                ]
+              },
+              {
+                "id": "C.P6.L.7",
+                "question": "Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link."
+              },
+              {
+                "id": "C.P6.L.8",
+                "question": "Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or adaptation measures have been taken by the entity in this regard."
+              },
+              {
+                "id": "C.P6.L.9",
+                "question": "Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental impacts."
+              }
+            ]
+          }
+        },
+        "principle_7": {
+          "title": "PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and transparent",
+          "indicators": {
+            "essential": [
+              {
+                "id": "C.P7.E.1.a",
+                "question": "Number of affiliations with trade and industry chambers/ associations."
+              },
+              {
+                "id": "C.P7.E.1.b",
+                "question": "List the top 10 trade and industry chambers/ associations the entity is a member of/ affiliated to.",
+                "type": "table",
+                "columns": [
+                  "S. No.",
+                  "Name of the trade and industry chambers/ associations",
+                  "Reach of trade and industry chambers/ associations (State/National)"
+                ]
+              },
+              {
+                "id": "C.P7.E.2",
+                "question": "Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, based on adverse orders from regulatory authorities.",
+                "type": "table",
+                "columns": [
+                  "Name of authority",
+                  "Brief of the case",
+                  "Corrective action taken"
+                ]
+              }
+            ],
+            "leadership": [
+              {
+                "id": "C.P7.L.1",
+                "question": "Details of public policy positions advocated by the entity.",
+                "type": "table",
+                "columns": [
+                  "S. No.",
+                  "Public policy advocated",
+                  "Method resorted for such advocacy",
+                  "Whether information available in public domain? (Yes/No)",
+                  "Frequency of Review by Board",
+                  "Web Link, if available"
+                ]
+              }
+            ]
+          }
+        },
+        "principle_8": {
+          "title": "PRINCIPLE 8: Businesses should promote inclusive growth and equitable development",
+          "indicators": {
+            "essential": [
+              {
+                "id": "C.P8.E.1",
+                "question": "Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial year.",
+                "type": "table",
+                "columns": [
+                  "Name and brief details of project",
+                  "SIA Notification No.",
+                  "Date of notification",
+                  "Whether conducted by independent external agency (Yes / No)",
+                  "Results communicated in public domain (Yes / No)",
+                  "Relevant Web link"
+                ]
+              },
+              {
+                "id": "C.P8.E.2",
+                "question": "Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity.",
+                "type": "table",
+                "columns": [
+                  "S. No.",
+                  "Name of Project for which R&R is ongoing",
+                  "State",
+                  "District",
+                  "No. of Project Affected Families (PAFs)",
+                  "% of PAFs covered by R&R",
+                  "Amounts paid to PAFs in the FY (In INR)"
+                ]
+              },
+              {
+                "id": "C.P8.E.3",
+                "question": "Describe the mechanisms to receive and redress grievances of the community."
+              },
+              {
+                "id": "C.P8.E.4",
+                "question": "Percentage of input material (inputs to total inputs by value) sourced from suppliers.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "FY Current Financial Year",
+                  "FY Previous Financial Year"
+                ],
+                "rows": [
+                  "Directly sourced from MSMEs/ small producers",
+                  "Sourced directly from within the district and neighbouring districts"
+                ]
+              }
+            ],
+            "leadership": [
+              {
+                "id": "C.P8.L.1",
+                "question": "Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments.",
+                "type": "table",
+                "columns": [
+                  "Details of negative social impact identified",
+                  "Corrective action taken"
+                ]
+              },
+              {
+                "id": "C.P8.L.2",
+                "question": "Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by government bodies.",
+                "type": "table",
+                "columns": [
+                  "S. No.",
+                  "State",
+                  "Aspirational District",
+                  "Amount spent (In INR)"
+                ]
+              },
+              {
+                "id": "C.P8.L.3.a",
+                "question": "Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalized /vulnerable groups? (Yes/No)"
+              },
+              {
+                "id": "C.P8.L.3.b",
+                "question": "From which marginalized /vulnerable groups do you procure?"
+              },
+              {
+                "id": "C.P8.L.3.c",
+                "question": "What percentage of total procurement (by value) does it constitute?"
+              },
+              {
+                "id": "C.P8.L.4",
+                "question": "Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current financial year), based on traditional knowledge.",
+                "type": "table",
+                "columns": [
+                  "S. No.",
+                  "Intellectual Property based on traditional knowledge",
+                  "Owned/Acquired",
+                  "Benefit shared (Yes/No)",
+                  "Basis of calculating benefit share"
+                ]
+              },
+              {
+                "id": "C.P8.L.5",
+                "question": "Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein usage of traditional knowledge is involved.",
+                "type": "table",
+                "columns": [
+                  "Name of authority",
+                  "Brief of the Case",
+                  "Corrective action taken"
+                ]
+              },
+              {
+                "id": "C.P8.L.6",
+                "question": "Details of beneficiaries of CSR Projects.",
+                "type": "table",
+                "columns": [
+                  "S. No.",
+                  "CSR Project",
+                  "No. of persons benefitted from CSR Projects",
+                  "% of beneficiaries from vulnerable and marginalized groups"
+                ]
+              }
+            ]
+          }
+        },
+        "principle_9": {
+          "title": "PRINCIPLE 9: Businesses should be responsible for and transparent about their impact on their consumers",
+          "indicators": {
+            "essential": [
+              {
+                "id": "C.P9.E.1",
+                "question": "Describe the mechanisms in place to receive and respond to consumer complaints and feedback."
+              },
+              {
+                "id": "C.P9.E.2",
+                "question": "Turnover of products and services as a percentage of turnover from all products/service that carry information about:",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "As a percentage to total turnover"
+                ],
+                "rows": [
+                  "Environmental and social parameters relevant to the product",
+                  "Safe and responsible usage",
+                  "Recycling and/or safe disposal"
+                ]
+              },
+              {
+                "id": "C.P9.E.3",
+                "question": "Number of consumer complaints in respect of the following:",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Current FY - Received during the year",
+                  "Current FY - Pending resolution at end of year",
+                  "Current FY - Remarks",
+                  "Previous FY - Received during the year",
+                  "Previous FY - Pending resolution at end of year",
+                  "Previous FY - Remarks"
+                ],
+                "rows": [
+                  "Data privacy",
+                  "Advertising",
+                  "Cyber-security",
+                  "Delivery of essential services",
+                  "Restrictive Trade Practices",
+                  "Unfair Trade Practices",
+                  "Other"
+                ]
+              },
+              {
+                "id": "C.P9.E.4",
+                "question": "Details of instances of product recalls on account of safety issues.",
+                "type": "table",
+                "columns": [
+                  "Category",
+                  "Number",
+                  "Reasons for recall"
+                ],
+                "rows": [
+                  "Voluntary recalls",
+                  "Forced recalls"
+                ]
+              },
+              {
+                "id": "C.P9.E.5",
+                "question": "Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-link of the policy."
+              },
+              {
+                "id": "C.P9.E.6",
+                "question": "Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory authorities on safety of products / services."
+              }
+            ],
+            "leadership": [
+              {
+                "id": "C.P9.L.1",
+                "question": "Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available)."
+              },
+              {
+                "id": "C.P9.L.2",
+                "question": "Steps taken to inform and educate consumers about safe and responsible usage of products and/or services."
+              },
+              {
+                "id": "C.P9.L.3",
+                "question": "Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services."
+              },
+              {
+                "id": "C.P9.L.4",
+                "question": "Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not Applicable) If yes, provide details in brief."
+              },
+              {
+                "id": "C.P9.L.5",
+                "question": "Did your entity carry out any survey with regard to consumer satisfaction relating to the major products / services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)"
+              },
+              {
+                "id": "C.P9.L.6",
+                "question": "Provide the following information relating to data breaches:",
+                "type": "table",
+                "columns": [
+                  "Number of instances of data breaches along-with impact",
+                  "Percentage of data breaches involving personally identifiable information of customers"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
